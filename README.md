@@ -1,8 +1,7 @@
 # movies-correlation
 
 Correlación de Peliculas.
-En este proyecto se desarrollaron scripts con python para identificar y corregir inconsistencias en los conjuntos de datos de 
-películas usando Pandas. Analiza qué variables afectan los ingresos brutos de las películas.
+En este proyecto se desarrollaron scripts con python para identificar y corregir inconsistencias en los conjuntos de datos de películas usando Pandas. Analiza qué variables afectan los ingresos brutos de las películas.
 
 Cómo usar este repositorio
 1. Clonar el repositorio:
